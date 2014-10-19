@@ -2,6 +2,7 @@ from django.conf.urls import patterns, include, url
 from django.contrib import admin
 from django.conf.urls import include
 
+
 urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'tutorial.views.home', name='home'),
